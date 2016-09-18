@@ -3,3 +3,5 @@ file B1
 my B3 change
 
 and my second master change
+
+Modif B4
